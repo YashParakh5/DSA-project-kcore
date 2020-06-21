@@ -6,4 +6,4 @@ It is a subgraph in which all the nodes in that subgraph have at least degree k.
 # To Run
 Make sure that you have python3 installed in your machine.
 
-Clone the repository go inside the `src` folder and type `python3 main.py`. This will give output highest possible K in that graph.
+Clone the repository go inside the `src` folder and type `python3 main.py`.If you have only one version of 'python run python main.py'.If you have only one version of python run python This will give output highest possible K in that graph.
